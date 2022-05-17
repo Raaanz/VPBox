@@ -36,6 +36,7 @@ enum {
 #define GO_TO_SLEEP_REASON_DEVICE_ADMIN 1
 #define GO_TO_SLEEP_REASON_TIMEOUT 2
 #define GO_TO_SLEEP_REASON_POWER_BUTTON 4
+#define WAKE_REASON_POWER_BUTTON 3
 
 }; // namespace android
 
